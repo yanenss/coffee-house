@@ -245,7 +245,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/container-bg.png');
+  background-image: url('../img/container-bg.png');
   border-radius: 4rem;
   flex-shrink: 0;
 }
