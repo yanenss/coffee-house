@@ -1062,6 +1062,10 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+.paghes {
+    border-radius: 150px;
+    width: 120rem;
+}
 .d-home-eGy .container-Krh .contacts-info-GSV .contacts-vmw .auto-group-dz3x-HcV .link-item-p6d .line--Xv9 {
   margin: 0rem 9.15rem 0rem 9.05rem;
   width: calc(100% - 18.2rem);
