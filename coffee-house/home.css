@@ -776,3 +776,20 @@ footer {
   max-width: 36px;
   max-height: 36px;
 }
+
+@media(max-width: 768px) {
+  .container {
+      padding-left:16px;
+      padding-right: 16px
+  }
+}
+@media(max-width: 768px) {
+  .gallery {
+      transform:scale(1.23)
+  }
+}
+@media(max-width: 768px) {
+  .contianer-mobileApp {
+      row-gap:40px
+  }
+}
