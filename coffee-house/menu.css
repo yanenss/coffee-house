@@ -82,6 +82,7 @@
   [type=reset],
   [type=submit] {
     -webkit-appearance: button;
+    appearance: button;
   }
   .button::-moz-focus-inner,
   [type=button]::-moz-focus-inner,
@@ -125,6 +126,7 @@
   [type=search] {
     -webkit-appearance: textfield;
     outline-offset: -2px;
+    appearance: textfield;
   }
   [type=search]::-webkit-search-decoration {
     -webkit-appearance: none;
@@ -763,4 +765,16 @@
     margin: 12px 0 20px 20px;
     font-weight: 600;
     font-size: 24px;
+  }
+
+  @media (max-width: 1440px) {
+
+  }
+
+  @media (max-width: 768px) {
+
+  }
+
+  @media (max-width: 380px) {
+
   }
